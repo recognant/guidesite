@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guide>
+  <text value="[titl]"/>
+  <text value="SimCraft (simC) "/>
+  <size value="[size,type=small]" type="small">
+    <text value="von PB[/size"/>
+    <b value="[b]">
+      <i value="[i]">
+        <u value="[u]"/>
+      </i>
+      <video value="[video,uri=]" uri=""/>
+    </b>
+  </size>
+</guide>

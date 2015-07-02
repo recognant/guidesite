@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guide>
+  <title value="[title]">
+    <text value="hallo"/>
+  </title>
+  <list value="[list,type=tab]" type="tab">
+    <star value="[*,title=hallo]" title="hallo"/>
+    <star value="[*,title=hallo2]" title="hallo2"/>
+  </list>
+</guide>

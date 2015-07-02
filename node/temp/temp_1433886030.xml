@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guide>
+  <img value="[img,uri=http://cdn.blizzardwatch.com/wp-content/uploads/2015/02/blastfurnace.jpg]" uri="http://cdn.blizzardwatch.com/wp-content/uploads/2015/02/blastfurnace.jpg"/>
+  <br value="[br]"/>
+  <list value="[list,type=tab]" type="tab">
+    <star value="[*,title=Phase 1]" title="Phase 1">
+      <list value="[list,type=column]" type="column">
+        <star value="[*]">
+          <text value=" "/>
+          <title value="[title]">
+            <size value="[size,type=large]" type="large">
+              <text value="Ziel: Sabotage"/>
+            </size>
+          </title>
+          <text value="Das Ziel in Phase 1 ist die Zerstörung der beiden "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=", die links und rechts am Schmelzofen angebracht sind (siehe rechtes Bild). Die "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" sind dabei nicht von Spielern angreifbar, können aber durch "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n von "/>
+          <wowdb value="[wowdb,uri=npc=88820]" uri="npc=88820">
+            <text value="Schmelzofen-Ingenieur"/>
+          </wowdb>
+          <text value="en Schaden erleiden. Die Aufgabe der Spieler besteht also darin, "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n zu den "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value="n zu bringen und dann ihre "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n manuell zu detonieren. Sind beide "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" zerstört, beginnt Phase 2."/>
+        </star>
+        <star value="[*]">
+          <text value=" "/>
+          <img value="[img,uri=http://wowimg.zamimg.com/uploads/guide/images/7134.jpg]" uri="http://wowimg.zamimg.com/uploads/guide/images/7134.jpg"/>
+        </star>
+      </list>
+      <title value="[title]">
+        <size value="[size,type=large]" type="large">
+          <text value="Gegnerische Einheiten"/>
+        </size>
+      </title>
+      <list value="[list,type=media]" type="media">
+        <star value="[*,img=http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg,title=Schmelzofen]" img="http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg" title="Schmelzofen">
+          <text value=" Der Schmelzofen wirkt "/>
+          <wowdb value="[wowdb,uri=spell=155209]" uri="spell=155209">
+            <text value="Flammenzunge"/>
+          </wowdb>
+          <text value=" in regelmäßigen Abständen (basierend auf seiner Hitze), wodurch allen Spielern Schaden zu gefügt wird."/>
+          <list value="[list]">
+            <star value="[*]">
+              <text value=" 0-24 Hitze: alle 30 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 25-49 Hitze: alle 20 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 50-74 Hitze: alle 15 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 75-99 Hitze: alle 12 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 100 Hitze: alle 10 Sekunden."/>
+            </star>
+          </list>
+        </star>
+        <star value="[*,img=http://wow.zamimg.com/uploads/screenshots/thumb/456345.jpg,title=Hitzeregler]" img="http://wow.zamimg.com/uploads/screenshots/thumb/456345.jpg" title="Hitzeregler">
+          <text value=" Am Schmelzofen sind zwei "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" angebracht. Das Ziel in Phase 1 besteht darin, diese zu zerstören und damit in Phase 2 zu gelanden. Der "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" hat 1.191.608 Lebenspunkte, wodurch es 12 "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n bedarf, um den "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" zu sprengen."/>
+          <alert value="[alert,type=danger]" type="danger">
+            <wowdb value="[wowdb,uri=npc=88820]" uri="npc=88820">
+              <text value="Schmelzofen-Ingenieur"/>
+            </wowdb>
+            <text value="e reparieren den "/>
+            <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+              <text value="Hitzeregler"/>
+            </wowdb>
+            <text value=" gelegentlich und heilen ihn damit um 3% seiner maximalen Lebenspunkte!"/>
+          </alert>
+        </star>
+        <star value="[*,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/c/c6/Furnace_Engineer.jpg/200px-Furnace_Engineer.jpg?version=1497a275a87ef4fdbce5aa090a1e3d90,title=Schmelzofen-Ingenieur]" img="http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/c/c6/Furnace_Engineer.jpg/200px-Furnace_Engineer.jpg?version=1497a275a87ef4fdbce5aa090a1e3d90" title="Schmelzofen-Ingenieur">
+          <text value=" Gelegentlich greifen "/>
+          <wowdb value="[wowdb,uri=npc=88820]" uri="npc=88820">
+            <text value="Schmelzofen-Ingenieur"/>
+          </wowdb>
+          <text value="e in das Kampfgeschehen ein. Sie tragen 5 "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n bei sich, die sie auf zufällige nahe Spieler werfen. Die "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n explodieren nach 15 Sekunden explodieren. Der Spieler kann die "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value=" aber auch manuell (per "/>
+          <i value="[i]">
+            <text value="Extra Action Button"/>
+          </i>
+          <text value=") detonieren. Die Explosion verursacht dabei auch Schaden an den "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value="n. Beim Tod wirken "/>
+          <wowdb value="[wowdb,uri=npc=88820]" uri="npc=88820">
+            <text value="Schmelzofen-Ingenieur"/>
+          </wowdb>
+          <text value="e "/>
+          <wowdb value="[wowdb,uri=spell=174726]" uri="spell=174726"/>
+          <text value=" und lassen einen "/>
+          <wowdb value="[wowdb,uri=npc=87339]" uri="npc=87339">
+            <text value="Bombensack"/>
+          </wowdb>
+          <text value=" fallen, der die restlichen nicht-geworfenen "/>
+          <wowdb value="[wowdb,uri=spell=155192]" uri="spell=155192">
+            <text value="Bombe"/>
+          </wowdb>
+          <text value="n enthält."/>
+          <wowdb value="[wowdb,uri=npc=88820]" uri="npc=88820">
+            <text value="Schmelzofen-Ingenieur"/>
+          </wowdb>
+          <text value="e wirken außerdem "/>
+          <wowdb value="[wowdb,uri=spell=155179]" uri="spell=155179">
+            <text value="reparieren"/>
+          </wowdb>
+          <text value=", um 3% der maximalen Lebenspunkte der "/>
+          <wowdb value="[wowdb,uri=npc=76808]" uri="npc=76808">
+            <text value="Hitzeregler"/>
+          </wowdb>
+          <text value=" wiederherzustellen."/>
+          <text value="Des Weiteren verursachen sie mäßigen Schaden durch die Fähigkeit "/>
+          <wowdb value="[wowdb,uri=spell=155201]" uri="spell=155201"/>
+          <text value=". Um Schaden zu vermeiden, sollten Spieler 5 Meter auseinander stehen."/>
+        </star>
+        <star value="[*,title=Wachposten,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1]" title="Wachposten" img="http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1">
+          <text value=" "/>
+          <wowdb value="[wowdb,uri=npc=88818]" uri="npc=88818">
+            <text value="Wachposten"/>
+          </wowdb>
+          <text value=" wirken gelegentlich "/>
+          <wowdb value="[wowdb,uri=spell=160382]" uri="spell=160382"/>
+          <text value=". "/>
+          <wowdb value="[wowdb,uri=spell=160382]" uri="spell=160382"/>
+          <text value=" erzeugt ein Gebiet, welches den erlittenen Schaden der darin befindlichen freundlichen Einheiten um 90% reduziert. Dieser Effekt betrifft in Phase 1 keine "/>
+          <wowdb value="[wowdb,uri=npc=88821]" uri="npc=88821">
+            <text value="Gebläsearbeiter"/>
+          </wowdb>
+          <text value="."/>
+        </star>
+        <star value="[*,title=Gebläsearbeiter,img=http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg]" title="Gebläsearbeiter" img="http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg">
+          <text value=" "/>
+          <wowdb value="[wowdb,uri=npc=88821]" uri="npc=88821">
+            <text value="Gebläsearbeiter"/>
+          </wowdb>
+          <text value=" erhöhen die Hitze des Ofen um 2 alle 8 Sekunden. In Phase 1 müssen die "/>
+          <wowdb value="[wowdb,uri=npc=88821]" uri="npc=88821">
+            <text value="Gebläsearbeiter"/>
+          </wowdb>
+          <text value=" nicht getankt werden."/>
+        </star>
+        <star value="[*,title=Vorarbeiter Feldspat,img=http://wow.zamimg.com/uploads/screenshots/resized/456461.jpg]" title="Vorarbeiter Feldspat" img="http://wow.zamimg.com/uploads/screenshots/resized/456461.jpg">
+          <text value=" Dieser Mini-Boss ist von Anfang an aktiv und muss getankt werden. "/>
+          <wowdb value="[wowdb,uri=npc=76809]" uri="npc=76809">
+            <text value="Vorarbeiter Feldspat"/>
+          </wowdb>
+          <text value=" wirkt folgende Fähigkeiten:"/>
+          <list value="[list,type=row]" type="row">
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=156937]" uri="spell=156937"/>
+              <text value=" wird auf einen zufälligen Spieler gewirkt und kann unterbrochen werden."/>
+            </star>
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=156934]" uri="spell=156934"/>
+              <text value=" muss an der Seite abgelegt werden."/>
+            </star>
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=158247]" uri="spell=158247"/>
+              <text value=" betrifft nahe Spieler (~20-Meter-Radius) und muss schlichtweg geheilt werden."/>
+            </star>
+          </list>
+        </star>
+      </list>
+    </star>
+    <star value="[*,title=Phase 2]" title="Phase 2">
+      <list value="[list,type=column]" type="column">
+        <star value="[*]">
+          <text value=" "/>
+          <title value="[title]">
+            <size value="[size,type=large]" type="large">
+              <text value="Ziel: Das Herz freilassen"/>
+            </size>
+          </title>
+          <text value="Das Ziel in Phase 2 ist das Freilassen des Herz des Berges. Dies gelingt nur, wenn man alle 4 "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en töten. Allerdings muss zuvor ihr "/>
+          <wowdb value="[wowdb,uri=spell=155176]" uri="spell=155176"/>
+          <text value=" entfernt werden, indem man ein "/>
+          <wowdb value="[wowdb,uri=npc=78463]" uri="npc=78463">
+            <text value="Schlackeelementar"/>
+          </wowdb>
+          <text value=" neben einem "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en auf 1 Lebenspunkt bringt. Denn dann explodiert das "/>
+          <wowdb value="[wowdb,uri=npc=78463]" uri="npc=78463">
+            <text value="Schlackeelementar"/>
+          </wowdb>
+          <text value=" und entfernt den Schild und belegt den "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en mit "/>
+          <wowdb value="[wowdb,uri=spell=158345]" uri="spell=158345"/>
+          <text value=", wodurch sie verwundbar werden. Sind alle 4 "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en getötet worden, beginnt Phase 3."/>
+        </star>
+        <star value="[*]">
+          <text value=" "/>
+          <img value="[img,uri=http://wowimg.zamimg.com/uploads/guide/images/7142.jpg]" uri="http://wowimg.zamimg.com/uploads/guide/images/7142.jpg"/>
+        </star>
+      </list>
+      <list value="[list,type=media]" type="media">
+        <star value="[*,img=http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg,title=Schmelzofen]" img="http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg" title="Schmelzofen">
+          <text value=" Der Schmelzofen wirkt "/>
+          <wowdb value="[wowdb,uri=spell=155209]" uri="spell=155209">
+            <text value="Flammenzunge"/>
+          </wowdb>
+          <text value=" in regelmäßigen Abständen (basierend auf seiner Hitze), wodurch allen Spielern Schaden zu gefügt wird."/>
+          <list value="[list]">
+            <star value="[*]">
+              <text value=" 0-24 Hitze: alle 30 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 25-49 Hitze: alle 20 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 50-74 Hitze: alle 15 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 75-99 Hitze: alle 12 Sekunden."/>
+            </star>
+            <star value="[*]">
+              <text value=" 100 Hitze: alle 10 Sekunden."/>
+            </star>
+          </list>
+        </star>
+        <star value="[*,title=Wachposten,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1]" title="Wachposten" img="http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1">
+          <text value=" "/>
+          <wowdb value="[wowdb,uri=npc=88818]" uri="npc=88818">
+            <text value="Wachposten"/>
+          </wowdb>
+          <text value=" wirken gelegentlich "/>
+          <wowdb value="[wowdb,uri=spell=160382]" uri="spell=160382"/>
+          <text value=". "/>
+          <wowdb value="[wowdb,uri=spell=160382]" uri="spell=160382"/>
+          <text value=" erzeugt ein Gebiet, welches den erlittenen Schaden der darin befindlichen freundlichen Einheiten um 90% reduziert."/>
+        </star>
+        <star value="[*,title=Gebläsearbeiter,img=http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg]" title="Gebläsearbeiter" img="http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg">
+          <text value=" Die verbliebenen "/>
+          <wowdb value="[wowdb,uri=npc=88821]" uri="npc=88821">
+            <text value="Gebläsearbeiter"/>
+          </wowdb>
+          <text value=" müssen in Phase 2 getankt werden. Aber Achtung, sie wirken jetzt "/>
+          <wowdb value="[wowdb,uri=spell=177756]" uri="spell=177756"/>
+          <text value="!"/>
+        </star>
+        <star value="[*,title=Urelementarist,img=http://images.staticjw.com/wor/7152/primal-elementalist.png]" title="Urelementarist" img="http://images.staticjw.com/wor/7152/primal-elementalist.png">
+          <text value=" In Phase 2 greifen 4 "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en in den Kampf ein. Sie besitzen einen "/>
+          <wowdb value="[wowdb,uri=spell=155176]" uri="spell=155176"/>
+          <text value=", der sie immun gegen jeglichen Schaden macht. Dieses Schild kann durch den Effekt von "/>
+          <wowdb value="[wowdb,uri=spell=176133]" uri="spell=176133"/>
+          <text value=" zerstört werden, den die Schlackeelementare beim Tod wirken. Wird der Schild zerstört, erhalten die "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en den Effekt "/>
+          <wowdb value="[wowdb,uri=spell=158345]" uri="spell=158345"/>
+          <text value=", wodurch sie 15 Sekunden lang verwundbar werden. In dieser Zeit wirken sie den Zauber "/>
+          <wowdb value="[wowdb,uri=spell=155173]" uri="spell=155173"/>
+          <text value=" auf sich selbst, der nach 8 Sekunden 30% ihrer Lebenspunkte wiederherstellt und von Spielern gereinigt werden muss."/>
+        </star>
+        <star value="[*,title=Feuerrufer,img=http://images.staticjw.com/wor/2480/firecaller.png]" title="Feuerrufer" img="http://images.staticjw.com/wor/2480/firecaller.png">
+          <text value=" "/>
+          <wowdb value="[wowdb,uri=npc=76821]" uri="npc=76821">
+            <text value="Feuerrufer"/>
+          </wowdb>
+          <text value=" müssen eingesammelt und getankt werden. Sie wirken:"/>
+          <list value="[list]">
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=159408]" uri="spell=159408"/>
+              <text value=" ("/>
+              <icon value="[icon,type=bolt]" type="bolt"/>
+              <text value="unterbrechbar"/>
+              <text value=")"/>
+            </star>
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=155186]" uri="spell=155186"/>
+              <text value=" ("/>
+              <icon value="[icon,type=bolt]" type="bolt"/>
+              <text value="unterbrechbar"/>
+              <text value=")"/>
+            </star>
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=176121]" uri="spell=176121"/>
+            </star>
+            <star value="[*]">
+              <text value=" "/>
+              <wowdb value="[wowdb,uri=spell=159115]" uri="spell=159115"/>
+              <text value=" sollte durch betäuben oder stoßen abgebrochen werden."/>
+            </star>
+          </list>
+        </star>
+        <star value="[*,title=Schlackeelementar,img=https://wow.zamimg.com/uploads/blog/thumbs/5124.png]" title="Schlackeelementar" img="https://wow.zamimg.com/uploads/blog/thumbs/5124.png">
+          <text value=" Die "/>
+          <wowdb value="[wowdb,uri=npc=78463]" uri="npc=78463">
+            <text value="Schlackeelementar"/>
+          </wowdb>
+          <text value="e "/>
+          <wowdb value="[wowdb,uri=spell=155196]" uri="spell=155196"/>
+          <text value=" zufällige Spieler und wirken "/>
+          <wowdb value="[wowdb,uri=spell=155200]" uri="spell=155200"/>
+          <text value=" ("/>
+          <icon value="[icon,type=bolt]" type="bolt"/>
+          <text value="unterbrechbar"/>
+          <text value=") auf sie. Diese Fähigkeit muss unterbrochen werden und das "/>
+          <wowdb value="[wowdb,uri=npc=78463]" uri="npc=78463">
+            <text value="Schlackeelementar"/>
+          </wowdb>
+          <text value=" zu einem "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en gebracht und dort auf 1 Lebenspunkt gebracht werden. Erreicht ein "/>
+          <wowdb value="[wowdb,uri=npc=78463]" uri="npc=78463">
+            <text value="Schlackeelementar"/>
+          </wowdb>
+          <text value=" 1 Lebenspunkt, explodiert es und entfernt dabei den "/>
+          <wowdb value="[wowdb,uri=spell=155176]" uri="spell=155176"/>
+          <text value=" der "/>
+          <wowdb value="[wowdb,uri=npc=76815]" uri="npc=76815">
+            <text value="Urelementarist"/>
+          </wowdb>
+          <text value="en."/>
+        </star>
+      </list>
+    </star>
+    <star value="[*,title=Phase 3]" title="Phase 3">
+      <header value="[header]">
+        <list value="[list,type=column]" type="column">
+          <star value="[*]">
+            <text value=" "/>
+            <title value="[title]">
+              <size value="[size,type=large]" type="large">
+                <text value="Ziel: Das Herz vernichten"/>
+              </size>
+            </title>
+            <text value="Das Ziel in Phase 3 ist die Vernichtung des "/>
+            <wowdb value="[wowdb,uri=npc=76806]" uri="npc=76806"/>
+            <text value=". Zuvor sollten aber alle verbliebenen "/>
+            <wowdb value="[wowdb,uri=npc=76821]" uri="npc=76821">
+              <text value="Feuerrufer"/>
+            </wowdb>
+            <text value=" und "/>
+            <wowdb value="[wowdb,uri=npc=88818]" uri="npc=88818">
+              <text value="Wachposten"/>
+            </wowdb>
+            <text value=" aus Phase 2 getötet werden. In dieser Phase sollte auch der "/>
+            <wowdb value="[wowdb,uri=spell=2825]" uri="spell=2825"/>
+            <text value=" benutzt werden."/>
+            <br value="[br]"/>
+            <title value="[title]">
+              <size value="[size,type=large]" type="large">
+                <b value="[b]">
+                  <text value="Das Herz des Berges"/>
+                </b>
+              </size>
+            </title>
+            <list value="[list]">
+              <star value="[*]">
+                <text value=" "/>
+                <wowdb value="[wowdb,uri=spell=155225]" uri="spell=155225"/>
+                <text value=" muss an der Seite abgelegt werden. Spieler dürfen sich nicht in einer solchen Zone aufhalten."/>
+              </star>
+              <star value="[*]">
+                <text value=" "/>
+                <wowdb value="[wowdb,uri=spell=155209]" uri="spell=155209"/>
+                <text value=" wird in dieser Phase sehr häufig gewirkt, da das "/>
+                <wowdb value="[wowdb,uri=npc=76806]" uri="npc=76806"/>
+                <text value=" 100 Hitze besitzt (alle 10 Sekunden)."/>
+              </star>
+              <star value="[*]">
+                <text value=" "/>
+                <wowdb value="[wowdb,uri=spell=155242]" uri="spell=155242"/>
+                <text value=" verursacht hohen periodischen Schaden auf den Tanks und bedarf großer Aufmerksamkeit für Heiler und Tanks."/>
+              </star>
+            </list>
+          </star>
+          <star value="[*]">
+            <text value=" "/>
+            <img value="[img,uri=http://static.icy-veins.com/images/wow/og-image-blackrock-foundry-the-blast-furnace.jpg]" uri="http://static.icy-veins.com/images/wow/og-image-blackrock-foundry-the-blast-furnace.jpg"/>
+          </star>
+        </list>
+      </header>
+    </star>
+  </list>
+</guide>

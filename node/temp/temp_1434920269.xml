@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guide>
+  <list value="[list,type=tab]" type="tab">
+    <star value="[*,title=yolo]" title="yolo">
+      <header value="[header]">
+        <text value="wooooooooooooooooooot"/>
+      </header>
+    </star>
+    <star value="[*,title=yolo]" title="yolo"/>
+  </list>
+  <panel value="[panel,title=yolo]" title="yolo">
+    <text value="yadda"/>
+  </panel>
+  <alert value="[alert,type=info]" type="info">
+    <text value="yolo"/>
+  </alert>
+  <quote value="[quote,src=Albert Einstein]" src="Albert Einstein">
+    <text value="yoloyolo"/>
+  </quote>
+</guide>

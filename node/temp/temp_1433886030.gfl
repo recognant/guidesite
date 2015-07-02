@@ -1,0 +1,99 @@
+[img,uri=http://cdn.blizzardwatch.com/wp-content/uploads/2015/02/blastfurnace.jpg][/img]
+
+[br]
+
+[list,type=tab]
+[*,title=Phase 1]
+
+[list,type=column]
+[*] [title][size,type=large]Ziel: Sabotage[/size][/title]
+Das Ziel in Phase 1 ist die Zerstörung der beiden [wowdb,uri=npc=76808]Hitzeregler[/wowdb], die links und rechts am Schmelzofen angebracht sind (siehe rechtes Bild). Die [wowdb,uri=npc=76808]Hitzeregler[/wowdb] sind dabei nicht von Spielern angreifbar, können aber durch [wowdb,uri=spell=155192]Bombe[/wowdb]n von [wowdb,uri=npc=88820]Schmelzofen-Ingenieur[/wowdb]en Schaden erleiden. Die Aufgabe der Spieler besteht also darin, [wowdb,uri=spell=155192]Bombe[/wowdb]n zu den [wowdb,uri=npc=76808]Hitzeregler[/wowdb]n zu bringen und dann ihre [wowdb,uri=spell=155192]Bombe[/wowdb]n manuell zu detonieren. Sind beide [wowdb,uri=npc=76808]Hitzeregler[/wowdb] zerstört, beginnt Phase 2.
+[*] [img,uri=http://wowimg.zamimg.com/uploads/guide/images/7134.jpg][/img]
+[/list]
+
+[title][size,type=large]Gegnerische Einheiten[/size][/title]
+
+[list,type=media]
+[*,img=http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg,title=Schmelzofen] Der Schmelzofen wirkt [wowdb,uri=spell=155209]Flammenzunge[/wowdb] in regelmäßigen Abständen (basierend auf seiner Hitze), wodurch allen Spielern Schaden zu gefügt wird.
+[list]
+[*] 0-24 Hitze: alle 30 Sekunden.
+[*] 25-49 Hitze: alle 20 Sekunden.
+[*] 50-74 Hitze: alle 15 Sekunden.
+[*] 75-99 Hitze: alle 12 Sekunden.
+[*] 100 Hitze: alle 10 Sekunden.
+[/list]
+
+[*,img=http://wow.zamimg.com/uploads/screenshots/thumb/456345.jpg,title=Hitzeregler] Am Schmelzofen sind zwei [wowdb,uri=npc=76808]Hitzeregler[/wowdb] angebracht. Das Ziel in Phase 1 besteht darin, diese zu zerstören und damit in Phase 2 zu gelanden. Der [wowdb,uri=npc=76808]Hitzeregler[/wowdb] hat 1.191.608 Lebenspunkte, wodurch es 12 [wowdb,uri=spell=155192]Bombe[/wowdb]n bedarf, um den [wowdb,uri=npc=76808]Hitzeregler[/wowdb] zu sprengen.
+[alert,type=danger][wowdb,uri=npc=88820]Schmelzofen-Ingenieur[/wowdb]e reparieren den [wowdb,uri=npc=76808]Hitzeregler[/wowdb] gelegentlich und heilen ihn damit um 3% seiner maximalen Lebenspunkte![/alert]
+
+[*,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/c/c6/Furnace_Engineer.jpg/200px-Furnace_Engineer.jpg?version=1497a275a87ef4fdbce5aa090a1e3d90,title=Schmelzofen-Ingenieur] Gelegentlich greifen [wowdb,uri=npc=88820]Schmelzofen-Ingenieur[/wowdb]e in das Kampfgeschehen ein. Sie tragen 5 [wowdb,uri=spell=155192]Bombe[/wowdb]n bei sich, die sie auf zufällige nahe Spieler werfen. Die [wowdb,uri=spell=155192]Bombe[/wowdb]n explodieren nach 15 Sekunden explodieren. Der Spieler kann die [wowdb,uri=spell=155192]Bombe[/wowdb] aber auch manuell (per [i]Extra Action Button[/i]) detonieren. Die Explosion verursacht dabei auch Schaden an den [wowdb,uri=npc=76808]Hitzeregler[/wowdb]n. Beim Tod wirken [wowdb,uri=npc=88820]Schmelzofen-Ingenieur[/wowdb]e [wowdb,uri=spell=174726][/wowdb] und lassen einen [wowdb,uri=npc=87339]Bombensack[/wowdb] fallen, der die restlichen nicht-geworfenen [wowdb,uri=spell=155192]Bombe[/wowdb]n enthält.
+[wowdb,uri=npc=88820]Schmelzofen-Ingenieur[/wowdb]e wirken außerdem [wowdb,uri=spell=155179]reparieren[/wowdb], um 3% der maximalen Lebenspunkte der [wowdb,uri=npc=76808]Hitzeregler[/wowdb] wiederherzustellen.
+Des Weiteren verursachen sie mäßigen Schaden durch die Fähigkeit [wowdb,uri=spell=155201][/wowdb]. Um Schaden zu vermeiden, sollten Spieler 5 Meter auseinander stehen.
+
+[*,title=Wachposten,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1] [wowdb,uri=npc=88818]Wachposten[/wowdb] wirken gelegentlich [wowdb,uri=spell=160382][/wowdb]. [wowdb,uri=spell=160382][/wowdb] erzeugt ein Gebiet, welches den erlittenen Schaden der darin befindlichen freundlichen Einheiten um 90% reduziert. Dieser Effekt betrifft in Phase 1 keine [wowdb,uri=npc=88821]Gebläsearbeiter[/wowdb].
+
+[*,title=Gebläsearbeiter,img=http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg] [wowdb,uri=npc=88821]Gebläsearbeiter[/wowdb] erhöhen die Hitze des Ofen um 2 alle 8 Sekunden. In Phase 1 müssen die [wowdb,uri=npc=88821]Gebläsearbeiter[/wowdb] nicht getankt werden.
+
+[*,title=Vorarbeiter Feldspat,img=http://wow.zamimg.com/uploads/screenshots/resized/456461.jpg] Dieser Mini-Boss ist von Anfang an aktiv und muss getankt werden. [wowdb,uri=npc=76809]Vorarbeiter Feldspat[/wowdb] wirkt folgende Fähigkeiten:
+[list,type=row]
+[*] [wowdb,uri=spell=156937][/wowdb] wird auf einen zufälligen Spieler gewirkt und kann unterbrochen werden.
+[*] [wowdb,uri=spell=156934][/wowdb] muss an der Seite abgelegt werden.
+[*] [wowdb,uri=spell=158247][/wowdb] betrifft nahe Spieler (~20-Meter-Radius) und muss schlichtweg geheilt werden.
+[/list]
+
+[/list]
+
+[*,title=Phase 2]
+
+[list,type=column]
+[*] [title][size,type=large]Ziel: Das Herz freilassen[/size][/title]
+Das Ziel in Phase 2 ist das Freilassen des Herz des Berges. Dies gelingt nur, wenn man alle 4 [wowdb,uri=npc=76815]Urelementarist[/wowdb]en töten. Allerdings muss zuvor ihr [wowdb,uri=spell=155176][/wowdb] entfernt werden, indem man ein [wowdb,uri=npc=78463]Schlackeelementar[/wowdb] neben einem [wowdb,uri=npc=76815]Urelementarist[/wowdb]en auf 1 Lebenspunkt bringt. Denn dann explodiert das [wowdb,uri=npc=78463]Schlackeelementar[/wowdb] und entfernt den Schild und belegt den [wowdb,uri=npc=76815]Urelementarist[/wowdb]en mit [wowdb,uri=spell=158345][/wowdb], wodurch sie verwundbar werden. Sind alle 4 [wowdb,uri=npc=76815]Urelementarist[/wowdb]en getötet worden, beginnt Phase 3.
+[*] [img,uri=http://wowimg.zamimg.com/uploads/guide/images/7142.jpg][/img]
+[/list]
+
+[list,type=media]
+[*,img=http://www.cinemablend.com/images/sections/69474/World_Of_Warcraft__Warlords_Of_Draenor_69474.jpg,title=Schmelzofen] Der Schmelzofen wirkt [wowdb,uri=spell=155209]Flammenzunge[/wowdb] in regelmäßigen Abständen (basierend auf seiner Hitze), wodurch allen Spielern Schaden zu gefügt wird.
+[list]
+[*] 0-24 Hitze: alle 30 Sekunden.
+[*] 25-49 Hitze: alle 20 Sekunden.
+[*] 50-74 Hitze: alle 15 Sekunden.
+[*] 75-99 Hitze: alle 12 Sekunden.
+[*] 100 Hitze: alle 10 Sekunden.
+[/list]
+
+[*,title=Wachposten,img=http://hydra-media.cursecdn.com/wow.gamepedia.com/thumb/d/d9/Security_Guard.jpg/200px-Security_Guard.jpg?version=ad18cfde2ea3c7fb2334b0e11611edf1] [wowdb,uri=npc=88818]Wachposten[/wowdb] wirken gelegentlich [wowdb,uri=spell=160382][/wowdb]. [wowdb,uri=spell=160382][/wowdb] erzeugt ein Gebiet, welches den erlittenen Schaden der darin befindlichen freundlichen Einheiten um 90% reduziert.
+
+[*,title=Gebläsearbeiter,img=http://wow.zamimg.com/uploads/screenshots/resized/467787.jpg] Die verbliebenen [wowdb,uri=npc=88821]Gebläsearbeiter[/wowdb] müssen in Phase 2 getankt werden. Aber Achtung, sie wirken jetzt [wowdb,uri=spell=177756][/wowdb]!
+
+[*,title=Urelementarist,img=http://images.staticjw.com/wor/7152/primal-elementalist.png] In Phase 2 greifen 4 [wowdb,uri=npc=76815]Urelementarist[/wowdb]en in den Kampf ein. Sie besitzen einen [wowdb,uri=spell=155176][/wowdb], der sie immun gegen jeglichen Schaden macht. Dieses Schild kann durch den Effekt von [wowdb,uri=spell=176133][/wowdb] zerstört werden, den die Schlackeelementare beim Tod wirken. Wird der Schild zerstört, erhalten die [wowdb,uri=npc=76815]Urelementarist[/wowdb]en den Effekt [wowdb,uri=spell=158345][/wowdb], wodurch sie 15 Sekunden lang verwundbar werden. In dieser Zeit wirken sie den Zauber [wowdb,uri=spell=155173][/wowdb] auf sich selbst, der nach 8 Sekunden 30% ihrer Lebenspunkte wiederherstellt und von Spielern gereinigt werden muss.
+
+[*,title=Feuerrufer,img=http://images.staticjw.com/wor/2480/firecaller.png] [wowdb,uri=npc=76821]Feuerrufer[/wowdb] müssen eingesammelt und getankt werden. Sie wirken:
+[list]
+[*] [wowdb,uri=spell=159408][/wowdb] ([icon,type=bolt]unterbrechbar[/icon])
+[*] [wowdb,uri=spell=155186][/wowdb] ([icon,type=bolt]unterbrechbar[/icon])
+[*] [wowdb,uri=spell=176121][/wowdb]
+[*] [wowdb,uri=spell=159115][/wowdb] sollte durch betäuben oder stoßen abgebrochen werden.
+[/list]
+
+[*,title=Schlackeelementar,img=https://wow.zamimg.com/uploads/blog/thumbs/5124.png] Die [wowdb,uri=npc=78463]Schlackeelementar[/wowdb]e [wowdb,uri=spell=155196][/wowdb] zufällige Spieler und wirken [wowdb,uri=spell=155200][/wowdb] ([icon,type=bolt]unterbrechbar[/icon]) auf sie. Diese Fähigkeit muss unterbrochen werden und das [wowdb,uri=npc=78463]Schlackeelementar[/wowdb] zu einem [wowdb,uri=npc=76815]Urelementarist[/wowdb]en gebracht und dort auf 1 Lebenspunkt gebracht werden. Erreicht ein [wowdb,uri=npc=78463]Schlackeelementar[/wowdb] 1 Lebenspunkt, explodiert es und entfernt dabei den [wowdb,uri=spell=155176][/wowdb] der [wowdb,uri=npc=76815]Urelementarist[/wowdb]en.
+[/list]
+
+[*,title=Phase 3]
+
+[header]
+[list,type=column]
+[*] [title][size,type=large]Ziel: Das Herz vernichten[/size][/title]
+Das Ziel in Phase 3 ist die Vernichtung des [wowdb,uri=npc=76806][/wowdb]. Zuvor sollten aber alle verbliebenen [wowdb,uri=npc=76821]Feuerrufer[/wowdb] und [wowdb,uri=npc=88818]Wachposten[/wowdb] aus Phase 2 getötet werden. In dieser Phase sollte auch der [wowdb,uri=spell=2825][/wowdb] benutzt werden.
+[br]
+[title][size,type=large][b]Das Herz des Berges[/b][/size][/title]
+[list]
+[*] [wowdb,uri=spell=155225][/wowdb] muss an der Seite abgelegt werden. Spieler dürfen sich nicht in einer solchen Zone aufhalten.
+[*] [wowdb,uri=spell=155209][/wowdb] wird in dieser Phase sehr häufig gewirkt, da das [wowdb,uri=npc=76806][/wowdb] 100 Hitze besitzt (alle 10 Sekunden).
+[*] [wowdb,uri=spell=155242][/wowdb] verursacht hohen periodischen Schaden auf den Tanks und bedarf großer Aufmerksamkeit für Heiler und Tanks.
+[/list]
+
+[*] [img,uri=http://static.icy-veins.com/images/wow/og-image-blackrock-foundry-the-blast-furnace.jpg][/img]
+[/list]
+[/header]
+
+[/list]
